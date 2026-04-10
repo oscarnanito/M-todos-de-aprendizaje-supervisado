@@ -1,0 +1,121 @@
+origen,destino,distancia_m,hora_pico,trafico,lluvia,pasajeros,tiempo_viaje_min
+Nariño,Fucha,950,0,2,1,222,13.02
+Hortúa,Nariño,900,1,1,0,145,10.71
+Calle 76,Calle 57,1150,1,1,1,175,13.79
+Fucha,Santa Lucía,1050,0,3,1,197,14.64
+Calle 100,Héroes,900,0,2,1,234,12.95
+Calle 142,Prado,1100,1,3,1,255,17.29
+Calle 142,Prado,1100,1,2,1,237,15.64
+Molinos,Danubio,1000,1,2,0,105,12.21
+Calle 146,Calle 142,700,1,2,0,170,11.75
+Hortúa,Nariño,900,0,3,1,179,13.99
+Prado,Calle 100,1300,0,1,1,168,12.23
+Calle 142,Prado,1100,0,2,1,52,12.1
+Socorro,Consuelo,900,1,3,1,126,15.55
+Calle 142,Prado,1100,0,3,1,178,14.65
+Calle 142,Prado,1100,0,3,0,146,12.38
+Toberín,Calle 146,950,1,1,0,53,10.11
+Nariño,Fucha,950,1,3,0,95,13.46
+Calle 100,Héroes,900,1,2,1,215,14.79
+Calle 57,Marly,850,0,3,1,236,14.3
+Consuelo,Molinos,1100,1,3,0,186,14.72
+Calle 100,Héroes,900,0,1,0,272,9.77
+Danubio,Portal Usme,1500,0,3,1,177,15.97
+Nariño,Fucha,950,1,2,1,290,15.58
+Socorro,Consuelo,900,1,3,1,235,16.46
+Danubio,Portal Usme,1500,1,3,0,168,15.9
+Calle 100,Héroes,900,1,3,1,103,15.36
+Molinos,Danubio,1000,1,3,1,189,16.41
+Hortúa,Nariño,900,0,2,1,130,12.08
+Danubio,Portal Usme,1500,0,3,1,81,15.18
+Danubio,Portal Usme,1500,1,1,1,227,15.39
+Danubio,Portal Usme,1500,0,3,0,200,14.17
+Consuelo,Molinos,1100,0,3,1,246,15.22
+Danubio,Portal Usme,1500,0,1,1,214,13.28
+Fucha,Santa Lucía,1050,0,3,0,119,11.99
+Consuelo,Molinos,1100,1,1,1,127,13.22
+Hortúa,Nariño,900,1,1,0,278,11.82
+Santa Lucía,Socorro,800,0,3,0,220,12.0
+Prado,Calle 100,1300,0,1,1,272,13.1
+Molinos,Danubio,1000,0,3,0,172,12.27
+Nariño,Fucha,950,0,2,1,215,12.96
+Santa Lucía,Socorro,800,1,1,0,209,10.91
+Socorro,Consuelo,900,1,3,1,186,16.05
+Portal del Norte,Toberín,1200,0,1,1,70,11.08
+Nariño,Fucha,950,1,1,0,228,11.57
+Santa Lucía,Socorro,800,1,3,1,248,16.23
+Danubio,Portal Usme,1500,1,1,1,58,13.98
+Avenida Jiménez,Hortúa,1000,1,3,1,238,16.82
+Socorro,Consuelo,900,1,2,0,163,12.36
+Calle 146,Calle 142,700,0,3,0,225,11.71
+Fucha,Santa Lucía,1050,0,1,1,117,10.97
+Consuelo,Molinos,1100,0,3,0,56,11.63
+Consuelo,Molinos,1100,1,3,1,177,16.64
+Marly,Avenida Jiménez,1400,0,1,0,223,11.03
+Consuelo,Molinos,1100,0,1,0,201,9.84
+Calle 100,Héroes,900,0,3,1,260,14.67
+Toberín,Calle 146,950,1,3,1,291,17.09
+Santa Lucía,Socorro,800,0,2,0,112,9.6
+Calle 100,Héroes,900,1,3,1,81,15.18
+Portal del Norte,Toberín,1200,1,3,0,217,15.31
+Danubio,Portal Usme,1500,1,1,0,99,12.32
+Santa Lucía,Socorro,800,1,3,1,299,16.66
+Socorro,Consuelo,900,1,1,0,234,11.45
+Nariño,Fucha,950,0,2,1,75,11.79
+Consuelo,Molinos,1100,1,3,0,176,14.63
+Hortúa,Nariño,900,1,1,0,237,11.47
+Portal del Norte,Toberín,1200,1,2,0,237,13.97
+Calle 76,Calle 57,1150,0,2,0,265,12.04
+Socorro,Consuelo,900,0,1,1,167,10.89
+Molinos,Danubio,1000,1,3,0,198,14.48
+Fucha,Santa Lucía,1050,0,2,1,57,11.97
+Calle 57,Marly,850,1,1,0,95,10.12
+Nariño,Fucha,950,0,2,1,161,12.51
+Portal del Norte,Toberín,1200,1,1,1,190,14.08
+Héroes,Calle 76,1000,0,3,0,237,12.81
+Héroes,Calle 76,1000,1,2,0,163,12.69
+Calle 100,Héroes,900,1,1,0,247,11.56
+Socorro,Consuelo,900,0,1,0,114,8.45
+Calle 76,Calle 57,1150,0,1,1,135,11.46
+Hortúa,Nariño,900,0,2,1,184,12.53
+Toberín,Calle 146,950,1,1,0,209,11.41
+Molinos,Danubio,1000,0,1,0,138,8.98
+Toberín,Calle 146,950,1,3,1,111,15.59
+Santa Lucía,Socorro,800,1,2,1,198,14.32
+Calle 57,Marly,850,1,2,1,139,13.99
+Consuelo,Molinos,1100,1,2,0,238,13.65
+Consuelo,Molinos,1100,0,2,1,280,14.0
+Nariño,Fucha,950,1,3,0,182,14.18
+Avenida Jiménez,Hortúa,1000,1,2,0,230,13.25
+Calle 146,Calle 142,700,1,2,0,264,12.53
+Prado,Calle 100,1300,1,1,1,75,13.46
+Nariño,Fucha,950,0,1,1,199,11.32
+Calle 100,Héroes,900,1,3,0,248,14.57
+Prado,Calle 100,1300,1,2,0,204,14.03
+Danubio,Portal Usme,1500,1,3,1,131,17.59
+Consuelo,Molinos,1100,1,1,1,56,12.63
+Consuelo,Molinos,1100,0,1,0,128,9.23
+Calle 100,Héroes,900,0,1,1,233,11.44
+Portal del Norte,Toberín,1200,0,1,0,189,10.07
+Calle 146,Calle 142,700,1,1,1,130,11.92
+Toberín,Calle 146,950,0,2,1,292,13.6
+Socorro,Consuelo,900,0,1,1,86,10.22
+Molinos,Danubio,1000,1,2,0,246,13.38
+Consuelo,Molinos,1100,0,3,1,73,13.77
+Avenida Jiménez,Hortúa,1000,0,3,0,78,11.48
+Calle 57,Marly,850,0,3,1,182,13.85
+Calle 57,Marly,850,1,2,0,102,11.68
+Hortúa,Nariño,900,1,1,0,77,10.14
+Héroes,Calle 76,1000,1,3,0,61,13.34
+Avenida Jiménez,Hortúa,1000,1,3,0,158,14.15
+Nariño,Fucha,950,0,1,1,203,11.36
+Santa Lucía,Socorro,800,1,3,1,296,16.63
+Hortúa,Nariño,900,0,2,1,221,12.84
+Fucha,Santa Lucía,1050,1,3,0,248,15.07
+Hortúa,Nariño,900,1,1,0,236,11.47
+Calle 142,Prado,1100,1,2,1,290,16.08
+Fucha,Santa Lucía,1050,1,2,1,180,15.0
+Socorro,Consuelo,900,0,3,1,81,13.18
+Socorro,Consuelo,900,0,2,1,158,12.32
+Socorro,Consuelo,900,0,2,0,236,10.97
+Calle 146,Calle 142,700,1,3,0,257,13.98
